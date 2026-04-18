@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXDark303)](https://github.com/anuraghazra/github-readme-stats)
+
