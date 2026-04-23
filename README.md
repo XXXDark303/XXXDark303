@@ -6,6 +6,9 @@
  
  🌱 I’m currently learning Java
 
+ 
+### 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=XXXDark303&theme=dark)
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
